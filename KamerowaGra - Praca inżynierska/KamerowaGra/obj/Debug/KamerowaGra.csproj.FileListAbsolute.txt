@@ -1,0 +1,36 @@
+C:\Users\Administrator\Desktop\Inżynierka\KamerowaGra\KamerowaGra\bin\Debug\KamerowaGra.exe.config
+C:\Users\Administrator\Desktop\Inżynierka\KamerowaGra\KamerowaGra\bin\Debug\KamerowaGra.exe
+C:\Users\Administrator\Desktop\Inżynierka\KamerowaGra\KamerowaGra\bin\Debug\KamerowaGra.pdb
+C:\Users\Administrator\Desktop\Inżynierka\KamerowaGra\KamerowaGra\bin\Debug\ZedGraph.dll
+C:\Users\Administrator\Desktop\Inżynierka\KamerowaGra\KamerowaGra\obj\Debug\KamerowaGra.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Inżynierka\KamerowaGra\KamerowaGra\obj\Debug\KamerowaGra.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Inżynierka\KamerowaGra\KamerowaGra\obj\Debug\KamerowaGra.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Inżynierka\KamerowaGra\KamerowaGra\obj\Debug\KamerowaGra.exe
+C:\Users\Administrator\Desktop\Inżynierka\KamerowaGra\KamerowaGra\obj\Debug\KamerowaGra.pdb
+C:\Users\Administrator\Desktop\Inżynierka\KamerowaGra\KamerowaGra\obj\Debug\KamerowaGra.EkranGlowny.resources
+C:\Users\Administrator\Desktop\Inżynierka\KamerowaGra\KamerowaGra\bin\Debug\Obrazki\Gracz1.png
+C:\Users\Administrator\Desktop\Inżynierka\KamerowaGra\KamerowaGra\bin\Debug\Obrazki\Gracz2.png
+C:\Users\Administrator\Desktop\Inżynierka\KamerowaGra\KamerowaGra\bin\Debug\Obrazki\Pilka1.png
+C:\Users\Administrator\Desktop\Inżynierka\KamerowaGra\KamerowaGra\bin\Debug\Obrazki\BlednyObraz.png
+C:\Users\Administrator\Desktop\Inżynierka\KamerowaGra\KamerowaGra\bin\Debug\Microsoft.CSharp.dll
+C:\Users\Administrator\Desktop\Inżynierka\KamerowaGra\KamerowaGra\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\Administrator\Desktop\Inżynierka\KamerowaGra\KamerowaGra\bin\Debug\System.Data.dll
+C:\Users\Administrator\Desktop\Inżynierka\KamerowaGra\KamerowaGra\bin\Debug\System.Deployment.dll
+C:\Users\Administrator\Desktop\Inżynierka\KamerowaGra\KamerowaGra\bin\Debug\System.dll
+C:\Users\Administrator\Desktop\Inżynierka\KamerowaGra\KamerowaGra\bin\Debug\System.Drawing.dll
+C:\Users\Administrator\Desktop\Inżynierka\KamerowaGra\KamerowaGra\bin\Debug\System.Windows.Forms.dll
+C:\Users\Administrator\Desktop\Inżynierka\KamerowaGra\KamerowaGra\bin\Debug\System.Xml.dll
+C:\Users\Administrator\Desktop\Inżynierka\KamerowaGra\KamerowaGra\bin\Debug\System.Xml.Linq.dll
+C:\Users\Administrator\Desktop\Inżynierka\KamerowaGra\KamerowaGra\obj\Debug\Interop.XcpControlLib.dll
+C:\Users\Administrator\Desktop\Inżynierka\KamerowaGra\KamerowaGra\obj\Debug\AxInterop.XcpControlLib.dll
+C:\Users\Administrator\Desktop\Inżynierka\KamerowaGra\KamerowaGra\obj\Debug\KamerowaGra.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\Inżynierka\KamerowaGra\KamerowaGra\bin\Debug\PresentationCore.dll
+C:\Users\Administrator\Desktop\Inżynierka\KamerowaGra\KamerowaGra\bin\Debug\Interop.XcpControlLib.dll
+C:\Users\Administrator\Desktop\Inżynierka\KamerowaGra\KamerowaGra\bin\Debug\AxInterop.XcpControlLib.dll
+C:\Users\Administrator\Desktop\Inżynierka\KamerowaGra\KamerowaGra\bin\Debug\DirectShowLib-2005.dll
+D:\Naukowe\PCZ\Inżynierskie\Semestr VII\Praca inżynierska\Program, opis i prezentacja\KamerowaGra\KamerowaGra\bin\Debug\KamerowaGra.exe.config
+D:\Naukowe\PCZ\Inżynierskie\Semestr VII\Praca inżynierska\Program, opis i prezentacja\KamerowaGra\KamerowaGra\obj\Debug\Interop.XcpControlLib.dll
+D:\Naukowe\PCZ\Inżynierskie\Semestr VII\Praca inżynierska\Program, opis i prezentacja\KamerowaGra\KamerowaGra\obj\Debug\AxInterop.XcpControlLib.dll
+D:\Naukowe\PCZ\Inżynierskie\Semestr VII\Praca inżynierska\Program, opis i prezentacja\KamerowaGra\KamerowaGra\obj\Debug\KamerowaGra.csproj.ResolveComReference.cache
+D:\Naukowe\PCZ\Inżynierskie\Semestr VII\Praca inżynierska\Program, opis i prezentacja\KamerowaGra\KamerowaGra\obj\Debug\KamerowaGra.exe
+D:\Naukowe\PCZ\Inżynierskie\Semestr VII\Praca inżynierska\Program, opis i prezentacja\KamerowaGra\KamerowaGra\obj\Debug\KamerowaGra.pdb

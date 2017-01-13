@@ -1,0 +1,15 @@
+Logowanie do kamerek:
+L: admin
+H: admin123
+
+Linki do kamer (po pod³¹czeniu do czerwonego routera):
+192.168.1.150/mjpg/1/video.mjpg?camera=1
+192.168.1.150/mjpg/1/video.mjpg?camera=2
+192.168.1.150/mjpg/1/video.mjpg?camera=3
+192.168.1.150/mjpg/1/video.mjpg?camera=4
+
+Logowanie do czerwonego routera:
+IP: 192.168.1.1
+L: admin
+H: 
+

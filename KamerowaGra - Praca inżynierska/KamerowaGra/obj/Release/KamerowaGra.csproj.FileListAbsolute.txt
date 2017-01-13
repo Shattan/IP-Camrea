@@ -1,0 +1,17 @@
+C:\Users\Administrator\Desktop\Inżynierka\KamerowaGra\KamerowaGra\bin\Release\KamerowaGra.exe.config
+C:\Users\Administrator\Desktop\Inżynierka\KamerowaGra\KamerowaGra\bin\Release\Obrazki\BlednyObraz.png
+C:\Users\Administrator\Desktop\Inżynierka\KamerowaGra\KamerowaGra\bin\Release\Obrazki\Gracz1.png
+C:\Users\Administrator\Desktop\Inżynierka\KamerowaGra\KamerowaGra\bin\Release\Obrazki\Gracz2.png
+C:\Users\Administrator\Desktop\Inżynierka\KamerowaGra\KamerowaGra\bin\Release\Obrazki\Pilka1.png
+C:\Users\Administrator\Desktop\Inżynierka\KamerowaGra\KamerowaGra\bin\Release\KamerowaGra.exe
+C:\Users\Administrator\Desktop\Inżynierka\KamerowaGra\KamerowaGra\bin\Release\KamerowaGra.pdb
+C:\Users\Administrator\Desktop\Inżynierka\KamerowaGra\KamerowaGra\bin\Release\Emgu.CV.dll
+C:\Users\Administrator\Desktop\Inżynierka\KamerowaGra\KamerowaGra\bin\Release\Emgu.CV.UI.dll
+C:\Users\Administrator\Desktop\Inżynierka\KamerowaGra\KamerowaGra\bin\Release\Emgu.Util.dll
+C:\Users\Administrator\Desktop\Inżynierka\KamerowaGra\KamerowaGra\bin\Release\ZedGraph.dll
+C:\Users\Administrator\Desktop\Inżynierka\KamerowaGra\KamerowaGra\obj\Release\KamerowaGra.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Inżynierka\KamerowaGra\KamerowaGra\obj\Release\KamerowaGra.EkranGlowny.resources
+C:\Users\Administrator\Desktop\Inżynierka\KamerowaGra\KamerowaGra\obj\Release\KamerowaGra.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Inżynierka\KamerowaGra\KamerowaGra\obj\Release\KamerowaGra.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Inżynierka\KamerowaGra\KamerowaGra\obj\Release\KamerowaGra.exe
+C:\Users\Administrator\Desktop\Inżynierka\KamerowaGra\KamerowaGra\obj\Release\KamerowaGra.pdb
